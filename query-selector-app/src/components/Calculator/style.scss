@@ -1,0 +1,26 @@
+.AnalyticsLabel{
+    font-size: large;
+    font-weight: 600;
+    text-decoration: underline;
+    margin: 1rem 0;
+}
+
+.CalcHeader{
+    select{
+        padding: 0.5rem;
+        margin: 0.5rem 0;
+    }
+}
+.CentralTendencyWrapper{
+   .Mean, .Median, .Mode{
+        font-size:large;
+        font-weight: 500;
+        margin: 0.25rem;
+   } 
+   .meanResult, .medianResult, .modeResult{
+    font-size:medium;
+    font-weight:200;
+    text-decoration: none;
+}
+   
+}

@@ -1,0 +1,13 @@
+.customQuerySelector{
+    display: flex; 
+    margin: 1rem 0;
+    justify-content: space-between;
+    textarea {
+        border-radius: 0.25rem;
+        width: 50vw;
+    }
+    .submitBtn{
+        width: 10rem;
+        border-radius: 0.5rem;
+    }
+}

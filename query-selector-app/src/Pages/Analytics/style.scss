@@ -1,0 +1,24 @@
+.AnalyticsWrapper{
+    margin: 1rem;
+    .AnalyticsSubWrapper{
+       .CalcWrapper, .ChartWrapper{
+        text-align: center;
+       }
+    }
+    .AnalyticsHeader{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        a{
+            margin: auto 0;
+            text-decoration: none;
+        }
+        .backLink{
+            color: white;
+           
+            font-size:medium;
+            font-weight: bold;
+        }
+    }
+    
+}

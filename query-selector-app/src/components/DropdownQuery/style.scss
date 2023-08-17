@@ -1,0 +1,13 @@
+.dropdown  {
+    // margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .Or{
+        margin: 1rem 0;
+        text-align: center;
+    }
+    .selectQuery{
+        margin: 1rem 0;
+    }
+}

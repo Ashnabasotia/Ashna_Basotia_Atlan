@@ -1,0 +1,25 @@
+.Home{
+    box-sizing: border-box;
+    display: flex;
+    height: -webkit-fill-available;
+    .left{
+        border-right: solid 2px white
+    }
+    .right{
+        min-width: 80vw;
+        padding: 1rem;
+        margin: 0 auto;
+        a{
+            text-align: center;
+            text-decoration: none;
+            color: white;
+            font-size:medium;
+            font-weight: bold;
+            .AnaLyticsLink{
+                margin: 0 auto;
+                
+            }
+        }
+    }  
+}
+

@@ -1,0 +1,29 @@
+.tableWrapper {
+    margin: 0 auto;
+   
+    table{
+        // max-width: 60vw;
+        // overflow: scroll;
+        width: -webkit-fill-available;
+        th, td  {
+            border: 1px double white;
+            padding: 5px;
+            max-width: 15rem;
+            overflow: scroll ;
+        }
+        td::-webkit-scrollbar {
+            display: none;
+        }
+        th::-webkit-scrollbar {
+            display: none;
+        }
+
+    }
+    .PageToggler{
+       width: fit-content;
+       margin: 1rem auto;
+       .PageNumber{
+        margin: 0 0.5rem;
+       }
+    }
+}
