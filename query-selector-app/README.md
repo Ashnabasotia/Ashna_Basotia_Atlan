@@ -27,7 +27,7 @@ react-router-dom
 
 ### Page Load Time
 Used React Dev Tools Profiler to calculate Load Time
-![Profiler ScreenShots](https://drive.google.com/file/d/1pg7jrO3nix5RzhdZvlcmL_Omvj7Jl6KS/view?usp=sharing)
+![Profiler ScreenShots](https://github.com/Ashnabasotia/Ashna_Basotia_Atlan/blob/master/query-selector-app/Screenshot%20(109).png)
 
 ### Optimizations
 Used Pagination
